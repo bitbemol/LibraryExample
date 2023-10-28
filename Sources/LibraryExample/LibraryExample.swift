@@ -3,7 +3,7 @@
 
 public struct LibraryExample {
     
-    init() { }
+    public init() { }
     
     public func sayHi(to name: String) -> String {
         "Hi, \(name)"
